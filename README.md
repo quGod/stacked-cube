@@ -1,2 +1,6 @@
 # stacked-cube
 The nQube project is a project that focuses on building an nQube platform. The platform is based on quantizing and miniaturizing standard tools in a typical laboratory to a standard unit, which conforms to a form factor of the same size. The advantage of this platform is that the portability between the digital and the real world (“Bits-to-Atoms” Philosophy from MIT FABLAB and MIT tangible media group) becomes much more transparent. In both the real and digital format each of the nQube unit performs a specific operation such as a reflection at ninety degree or equally splitting a laser beam into two, while at the same time conforms to a standard set of rules when connecting the nQube units together. The portability from real to digital format allows existing experiments to be scalable and distributable to researcher around the world over the social network. The digital format can be much less expensive in terms of experimental design and reconstruction because manipulating digital form costs less than building the real object. Moreover, the digital format is compatible with rapidly advanced development of artificial intelligence which can be used to optimize or even design an effective experimental setup.
+
+
+# Software
+https://youtu.be/hFrXbGq_xms
